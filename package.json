@@ -1,0 +1,21 @@
+{
+   "name": "intro",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/C19H3R/node-intro.git"
+   },
+   "keywords": [],
+   "type": "module",
+   "author": "",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/C19H3R/node-intro/issues"
+   },
+   "homepage": "https://github.com/C19H3R/node-intro#readme"
+}
